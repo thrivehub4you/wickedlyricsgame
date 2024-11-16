@@ -1,0 +1,102 @@
+{
+  "common": {
+    "start": "ابدأ اللعب",
+    "learnMore": "اعرف المزيد",
+    "leaderboard": "لوحة المتصدرين",
+    "about": "حول",
+    "help": "مساعدة",
+    "login": "تسجيل الدخول",
+    "signup": "إنشاء حساب",
+    "round": "جولة",
+    "score": "النتيجة",
+    "streak": "التتابع",
+    "failedAttempts": "المحاولات الفاشلة",
+    "createLyrics": "إنشاء كلمات",
+    "multiplayer": "متعدد اللاعبين"
+  },
+  "home": {
+    "title": "Wicked Lyrics",
+    "subtitle": "تحدى نفسك، خمن الكلمات، اربح المكافآت!",
+    "description": "اختبر معرفتك الموسيقية!",
+    "features": {
+      "aiLyrics": "توليد كلمات بالذكاء الاصطناعي",
+      "multipleGenres": "أنواع موسيقية متعددة",
+      "realTime": "إنشاء فوري"
+    }
+  },
+  "game": {
+    "score": "النتيجة",
+    "timeLeft": "الوقت المتبقي",
+    "hint": "تلميح",
+    "submit": "إرسال",
+    "skip": "تخطي",
+    "victory": "تهانينا!",
+    "defeat": "انتهت اللعبة",
+    "finalScore": "النتيجة النهائية",
+    "accuracy": "الدقة",
+    "shareScore": "مشاركة النتيجة",
+    "playAgain": "العب مرة أخرى",
+    "quit": "خروج",
+    "revival": "فرصة إحياء",
+    "revivalsLeft": "فرص الإحياء المتبقية",
+    "useRevival": "استخدام الإحياء",
+    "registerNow": "سجل الآن",
+    "guestLimit": "حد وضع الضيف"
+  },
+  "modes": {
+    "title": "اختر وضع اللعب",
+    "description": "اختر وضعاً وابدأ اللعب",
+    "single": {
+      "title": "لاعب واحد",
+      "description": "تحدى نفسك"
+    },
+    "multiplayer": {
+      "title": "متعدد اللاعبين",
+      "description": "نافس في الوقت الحقيقي",
+      "quickMatch": "مباراة سريعة",
+      "createRoom": "إنشاء غرفة",
+      "inviteFriends": "دعوة الأصدقاء",
+      "findingPlayers": "جارٍ البحث عن لاعبين...",
+      "waitingForPlayers": "في انتظار اللاعبين",
+      "roomCode": "رمز الغرفة"
+    },
+    "timed": {
+      "title": "ضد الوقت",
+      "description": "سباق ضد الزمن"
+    }
+  },
+  "lyrics": {
+    "generator": {
+      "title": "مولد الكلمات الذكي",
+      "description": "أنشئ كلمات فريدة بالذكاء الاصطناعي",
+      "prompt": "أدخل فكرتك",
+      "genre": "النوع",
+      "mood": "المزاج",
+      "generate": "توليد الكلمات",
+      "generating": "جارٍ التوليد...",
+      "share": "مشاركة",
+      "download": "تحميل"
+    }
+  },
+  "auth": {
+    "loginTitle": "تسجيل الدخول",
+    "registerTitle": "إنشاء حساب",
+    "email": "البريد الإلكتروني",
+    "password": "كلمة المرور",
+    "username": "اسم المستخدم",
+    "createAccount": "إنشاء حساب",
+    "alreadyHaveAccount": "لديك حساب بالفعل؟",
+    "dontHaveAccount": "ليس لديك حساب؟",
+    "loginSuccess": "تم تسجيل الدخول بنجاح!",
+    "registerSuccess": "تم إنشاء الحساب بنجاح!"
+  },
+  "footer": {
+    "navigation": "التنقل",
+    "resources": "الموارد",
+    "company": "الشركة",
+    "contact": "اتصل بنا",
+    "privacy": "الخصوصية",
+    "terms": "الشروط",
+    "rights": "© {{year}} Wicked Lyrics. جميع الحقوق محفوظة."
+  }
+}

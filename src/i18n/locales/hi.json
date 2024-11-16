@@ -1,0 +1,102 @@
+{
+  "common": {
+    "start": "खेल शुरू करें",
+    "learnMore": "और जानें",
+    "leaderboard": "लीडरबोर्ड",
+    "about": "हमारे बारे में",
+    "help": "सहायता",
+    "login": "लॉग इन",
+    "signup": "साइन अप",
+    "round": "राउंड",
+    "score": "स्कोर",
+    "streak": "स्ट्रीक",
+    "failedAttempts": "असफल प्रयास",
+    "createLyrics": "गीत रचना करें",
+    "multiplayer": "मल्टीप्लेयर"
+  },
+  "home": {
+    "title": "Wicked Lyrics",
+    "subtitle": "खुद को चुनौती दें, गीत अनुमान लगाएं, पुरस्कार जीतें!",
+    "description": "अपने संगीत ज्ञान का परीक्षण करें!",
+    "features": {
+      "aiLyrics": "AI गीत रचना",
+      "multipleGenres": "विभिन्न शैलियां",
+      "realTime": "रीयल-टाइम रचना"
+    }
+  },
+  "game": {
+    "score": "स्कोर",
+    "timeLeft": "शेष समय",
+    "hint": "संकेत",
+    "submit": "जमा करें",
+    "skip": "छोड़ें",
+    "victory": "बधाई हो!",
+    "defeat": "खेल समाप्त",
+    "finalScore": "अंतिम स्कोर",
+    "accuracy": "सटीकता",
+    "shareScore": "स्कोर शेयर करें",
+    "playAgain": "फिर से खेलें",
+    "quit": "बाहर निकलें",
+    "revival": "पुनर्जीवन अवसर",
+    "revivalsLeft": "शेष पुनर्जीवन",
+    "useRevival": "पुनर्जीवन का उपयोग करें",
+    "registerNow": "अभी रजिस्टर करें",
+    "guestLimit": "अतिथि मोड सीमा"
+  },
+  "modes": {
+    "title": "अपना मोड चुनें",
+    "description": "एक मोड चुनें और खेलना शुरू करें",
+    "single": {
+      "title": "एकल खिलाड़ी",
+      "description": "खुद को चुनौती दें"
+    },
+    "multiplayer": {
+      "title": "मल्टीप्लेयर",
+      "description": "रीयल-टाइम प्रतिस्पर्धा",
+      "quickMatch": "त्वरित मैच",
+      "createRoom": "रूम बनाएं",
+      "inviteFriends": "दोस्तों को आमंत्रित करें",
+      "findingPlayers": "खिलाड़ियों की खोज...",
+      "waitingForPlayers": "खिलाड़ियों की प्रतीक्षा",
+      "roomCode": "रूम कोड"
+    },
+    "timed": {
+      "title": "टाइम अटैक",
+      "description": "समय के खिलाफ प्रतिस्पर्धा"
+    }
+  },
+  "lyrics": {
+    "generator": {
+      "title": "AI गीत जनरेटर",
+      "description": "AI के साथ अनूठे गीत बनाएं",
+      "prompt": "अपना विचार दर्ज करें",
+      "genre": "शैली",
+      "mood": "मूड",
+      "generate": "गीत बनाएं",
+      "generating": "बना रहे हैं...",
+      "share": "शेयर करें",
+      "download": "डाउनलोड करें"
+    }
+  },
+  "auth": {
+    "loginTitle": "लॉग इन करें",
+    "registerTitle": "खाता बनाएं",
+    "email": "ईमेल",
+    "password": "पासवर्ड",
+    "username": "यूजरनेम",
+    "createAccount": "खाता बनाएं",
+    "alreadyHaveAccount": "पहले से खाता है?",
+    "dontHaveAccount": "खाता नहीं है?",
+    "loginSuccess": "लॉग इन सफल!",
+    "registerSuccess": "रजिस्ट्रेशन सफल!"
+  },
+  "footer": {
+    "navigation": "नेविगेशन",
+    "resources": "संसाधन",
+    "company": "कंपनी",
+    "contact": "संपर्क",
+    "privacy": "गोपनीयता",
+    "terms": "नियम और शर्तें",
+    "rights": "© {{year}} Wicked Lyrics. सर्वाधिकार सुरक्षित।"
+  }
+}

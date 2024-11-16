@@ -1,0 +1,102 @@
+{
+  "common": {
+    "start": "Empezar Juego",
+    "learnMore": "Saber Más",
+    "leaderboard": "Clasificación",
+    "about": "Acerca de",
+    "help": "Ayuda",
+    "login": "Iniciar Sesión",
+    "signup": "Registrarse",
+    "round": "Ronda",
+    "score": "Puntuación",
+    "streak": "Racha",
+    "failedAttempts": "Intentos Fallidos",
+    "createLyrics": "Crear Letras",
+    "multiplayer": "Multijugador"
+  },
+  "home": {
+    "title": "Wicked Lyrics",
+    "subtitle": "¡Desafíate a ti mismo, adivina las letras, gana recompensas!",
+    "description": "¡Pon a prueba tus conocimientos musicales!",
+    "features": {
+      "aiLyrics": "Generación de Letras con IA",
+      "multipleGenres": "Múltiples Géneros",
+      "realTime": "Creación en Tiempo Real"
+    }
+  },
+  "game": {
+    "score": "Puntuación",
+    "timeLeft": "Tiempo Restante",
+    "hint": "Pista",
+    "submit": "Enviar",
+    "skip": "Saltar",
+    "victory": "¡Felicitaciones!",
+    "defeat": "Fin del Juego",
+    "finalScore": "Puntuación Final",
+    "accuracy": "Precisión",
+    "shareScore": "Compartir Puntuación",
+    "playAgain": "Jugar de Nuevo",
+    "quit": "Salir",
+    "revival": "Oportunidad de Revivir",
+    "revivalsLeft": "Revivir Restantes",
+    "useRevival": "Usar Revivir",
+    "registerNow": "Registrarse Ahora",
+    "guestLimit": "Límite de Modo Invitado"
+  },
+  "modes": {
+    "title": "Elige tu Modo de Juego",
+    "description": "Selecciona un modo y empieza a jugar",
+    "single": {
+      "title": "Un Jugador",
+      "description": "Desafíate a ti mismo"
+    },
+    "multiplayer": {
+      "title": "Multijugador",
+      "description": "Compite en tiempo real",
+      "quickMatch": "Partida Rápida",
+      "createRoom": "Crear Sala",
+      "inviteFriends": "Invitar Amigos",
+      "findingPlayers": "Buscando jugadores...",
+      "waitingForPlayers": "Esperando jugadores",
+      "roomCode": "Código de Sala"
+    },
+    "timed": {
+      "title": "Contrarreloj",
+      "description": "Compite contra el tiempo"
+    }
+  },
+  "lyrics": {
+    "generator": {
+      "title": "Generador de Letras IA",
+      "description": "Crea letras únicas con IA",
+      "prompt": "Ingresa tu idea",
+      "genre": "Género",
+      "mood": "Estado de ánimo",
+      "generate": "Generar Letras",
+      "generating": "Generando...",
+      "share": "Compartir",
+      "download": "Descargar"
+    }
+  },
+  "auth": {
+    "loginTitle": "Iniciar Sesión",
+    "registerTitle": "Crear Cuenta",
+    "email": "Correo electrónico",
+    "password": "Contraseña",
+    "username": "Nombre de usuario",
+    "createAccount": "Crear Cuenta",
+    "alreadyHaveAccount": "¿Ya tienes cuenta?",
+    "dontHaveAccount": "¿No tienes cuenta?",
+    "loginSuccess": "¡Sesión iniciada!",
+    "registerSuccess": "¡Registro exitoso!"
+  },
+  "footer": {
+    "navigation": "Navegación",
+    "resources": "Recursos",
+    "company": "Empresa",
+    "contact": "Contacto",
+    "privacy": "Privacidad",
+    "terms": "Términos",
+    "rights": "© {{year}} Wicked Lyrics. Todos los derechos reservados."
+  }
+}

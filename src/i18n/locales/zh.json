@@ -1,0 +1,102 @@
+{
+  "common": {
+    "start": "开始游戏",
+    "learnMore": "了解更多",
+    "leaderboard": "排行榜",
+    "about": "关于我们",
+    "help": "帮助",
+    "login": "登录",
+    "signup": "注册",
+    "round": "关卡",
+    "score": "得分",
+    "streak": "连击",
+    "failedAttempts": "失败次数",
+    "createLyrics": "创作歌词",
+    "multiplayer": "多人对战"
+  },
+  "home": {
+    "title": "Wicked Lyrics",
+    "subtitle": "挑战自己，猜歌词，赢得荣誉！加入全球歌词挑战者的行列！",
+    "description": "根据歌词猜歌手，挑战你的音乐知识！",
+    "features": {
+      "aiLyrics": "AI 歌词生成",
+      "multipleGenres": "多种音乐风格",
+      "realTime": "实时创作"
+    }
+  },
+  "game": {
+    "score": "得分",
+    "timeLeft": "剩余时间",
+    "hint": "提示",
+    "submit": "提交",
+    "skip": "跳过",
+    "victory": "恭喜你完成挑战！",
+    "defeat": "游戏结束",
+    "finalScore": "最终得分",
+    "accuracy": "正确率",
+    "shareScore": "分享成绩",
+    "playAgain": "再玩一次",
+    "quit": "退出",
+    "revival": "复活机会",
+    "revivalsLeft": "剩余复活次数",
+    "useRevival": "使用复活",
+    "registerNow": "立即注册",
+    "guestLimit": "游客模式已达到限制"
+  },
+  "modes": {
+    "title": "选择你的挑战模式",
+    "description": "选择游戏模式，开始猜歌手！",
+    "single": {
+      "title": "单人挑战",
+      "description": "挑战自己，提升音乐知识"
+    },
+    "multiplayer": {
+      "title": "多人对战",
+      "description": "与全球玩家实时对战",
+      "quickMatch": "快速匹配",
+      "createRoom": "创建房间",
+      "inviteFriends": "邀请好友",
+      "findingPlayers": "正在寻找玩家...",
+      "waitingForPlayers": "等待玩家加入",
+      "roomCode": "房间代码"
+    },
+    "timed": {
+      "title": "限时挑战",
+      "description": "与时间赛跑，测试你的速度"
+    }
+  },
+  "lyrics": {
+    "generator": {
+      "title": "AI 歌词生成器",
+      "description": "使用 AI 创作独特的歌词",
+      "prompt": "输入你的创作灵感",
+      "genre": "音乐风格",
+      "mood": "情感氛围",
+      "generate": "生成歌词",
+      "generating": "正在创作...",
+      "share": "分享创作",
+      "download": "下载图片"
+    }
+  },
+  "auth": {
+    "loginTitle": "登录账号",
+    "registerTitle": "创建账号",
+    "email": "邮箱地址",
+    "password": "密码",
+    "username": "用户名",
+    "createAccount": "创建账号",
+    "alreadyHaveAccount": "已有账号？",
+    "dontHaveAccount": "没有账号？",
+    "loginSuccess": "登录成功！",
+    "registerSuccess": "注册成功！"
+  },
+  "footer": {
+    "navigation": "导航",
+    "resources": "资源",
+    "company": "公司",
+    "contact": "联系我们",
+    "privacy": "隐私政策",
+    "terms": "服务条款",
+    "rights": "© {{year}} Wicked Lyrics. 保留所有权利。"
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "common": {
+    "start": "Commencer",
+    "learnMore": "En Savoir Plus",
+    "leaderboard": "Classement",
+    "about": "À Propos",
+    "help": "Aide",
+    "login": "Connexion",
+    "signup": "S'inscrire",
+    "round": "Manche",
+    "score": "Score",
+    "streak": "Série",
+    "failedAttempts": "Essais Échoués",
+    "createLyrics": "Créer des Paroles",
+    "multiplayer": "Multijoueur"
+  },
+  "home": {
+    "title": "Wicked Lyrics",
+    "subtitle": "Défiez-vous, devinez les paroles, gagnez des récompenses !",
+    "description": "Testez vos connaissances musicales !",
+    "features": {
+      "aiLyrics": "Génération de Paroles IA",
+      "multipleGenres": "Genres Multiples",
+      "realTime": "Création en Temps Réel"
+    }
+  },
+  "game": {
+    "score": "Score",
+    "timeLeft": "Temps Restant",
+    "hint": "Indice",
+    "submit": "Valider",
+    "skip": "Passer",
+    "victory": "Félicitations !",
+    "defeat": "Fin de la Partie",
+    "finalScore": "Score Final",
+    "accuracy": "Précision",
+    "shareScore": "Partager le Score",
+    "playAgain": "Rejouer",
+    "quit": "Quitter",
+    "revival": "Chance de Renaissance",
+    "revivalsLeft": "Renaissances Restantes",
+    "useRevival": "Utiliser Renaissance",
+    "registerNow": "S'inscrire Maintenant",
+    "guestLimit": "Limite Mode Invité"
+  },
+  "modes": {
+    "title": "Choisissez Votre Mode",
+    "description": "Sélectionnez un mode et commencez à jouer",
+    "single": {
+      "title": "Solo",
+      "description": "Défiez-vous"
+    },
+    "multiplayer": {
+      "title": "Multijoueur",
+      "description": "Compétition en temps réel",
+      "quickMatch": "Partie Rapide",
+      "createRoom": "Créer une Salle",
+      "inviteFriends": "Inviter des Amis",
+      "findingPlayers": "Recherche de joueurs...",
+      "waitingForPlayers": "En attente de joueurs",
+      "roomCode": "Code de Salle"
+    },
+    "timed": {
+      "title": "Contre la Montre",
+      "description": "Course contre le temps"
+    }
+  },
+  "lyrics": {
+    "generator": {
+      "title": "Générateur de Paroles IA",
+      "description": "Créez des paroles uniques avec l'IA",
+      "prompt": "Entrez votre idée",
+      "genre": "Genre",
+      "mood": "Ambiance",
+      "generate": "Générer",
+      "generating": "Génération...",
+      "share": "Partager",
+      "download": "Télécharger"
+    }
+  },
+  "auth": {
+    "loginTitle": "Connexion",
+    "registerTitle": "Créer un Compte",
+    "email": "Email",
+    "password": "Mot de passe",
+    "username": "Nom d'utilisateur",
+    "createAccount": "Créer un Compte",
+    "alreadyHaveAccount": "Déjà un compte ?",
+    "dontHaveAccount": "Pas de compte ?",
+    "loginSuccess": "Connexion réussie !",
+    "registerSuccess": "Inscription réussie !"
+  },
+  "footer": {
+    "navigation": "Navigation",
+    "resources": "Ressources",
+    "company": "Entreprise",
+    "contact": "Contact",
+    "privacy": "Confidentialité",
+    "terms": "Conditions",
+    "rights": "© {{year}} Wicked Lyrics. Tous droits réservés."
+  }
+}

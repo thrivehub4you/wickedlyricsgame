@@ -1,0 +1,132 @@
+{
+  "common": {
+    "start": "Start Game",
+    "learnMore": "Learn More",
+    "leaderboard": "Leaderboard",
+    "about": "About",
+    "help": "Help",
+    "login": "Log In",
+    "signup": "Sign Up",
+    "logout": "Log Out",
+    "round": "Round",
+    "score": "Score",
+    "streak": "Streak",
+    "failedAttempts": "Failed Attempts",
+    "createLyrics": "Create Lyrics",
+    "multiplayer": "Multiplayer"
+  },
+  "home": {
+    "title": "Wicked Lyrics",
+    "subtitle": "Challenge yourself, guess the lyrics, win rewards!",
+    "description": "Test your music knowledge with our lyric guessing game!",
+    "features": {
+      "title": "Powerful Features for Creative Minds",
+      "subtitle": "Everything you need to create amazing song lyrics",
+      "aiLyrics": {
+        "title": "AI-Powered Lyrics Generation",
+        "description": "Create unique lyrics with advanced AI technology tailored to your style and mood."
+      },
+      "multipleGenres": {
+        "title": "Multiple Music Genres",
+        "description": "Generate lyrics across various genres including Pop, Rock, Hip Hop, R&B, and more."
+      },
+      "realTime": {
+        "title": "Real-time Creation",
+        "description": "Get instant results and share your creations directly to social media."
+      }
+    }
+  },
+  "game": {
+    "score": "Score",
+    "timeLeft": "Time Left",
+    "hint": "Hint",
+    "submit": "Submit",
+    "skip": "Skip",
+    "victory": "Congratulations!",
+    "defeat": "Game Over",
+    "finalScore": "Final Score",
+    "accuracy": "Accuracy",
+    "shareScore": "Share Score",
+    "playAgain": "Play Again",
+    "quit": "Quit",
+    "revival": "Revival Chance",
+    "revivalsLeft": "Revivals Left",
+    "useRevival": "Use Revival",
+    "registerNow": "Register Now",
+    "guestLimit": "Guest Mode Limit",
+    "rules": "Game Rules",
+    "basic": {
+      "title": "Basic Rules",
+      "rules": [
+        "Choose the correct artist from three options",
+        "Answer within 10 seconds",
+        "Faster answers earn more points",
+        "Game ends after 5 consecutive wrong answers"
+      ]
+    },
+    "scoring": {
+      "title": "Scoring Rules",
+      "rules": [
+        "Base score: 100 points",
+        "Time bonus: remaining seconds × 10",
+        "Streak bonus: additional points for consecutive correct answers"
+      ]
+    }
+  },
+  "modes": {
+    "title": "Choose Your Game Mode",
+    "description": "Select your preferred mode and start playing!",
+    "single": {
+      "title": "Single Player",
+      "description": "Challenge yourself and improve your music knowledge"
+    },
+    "multiplayer": {
+      "title": "Multiplayer",
+      "description": "Challenge players worldwide or invite friends",
+      "quickMatch": "Quick Match",
+      "createRoom": "Create Room",
+      "inviteFriends": "Invite Friends",
+      "findingPlayers": "Finding players...",
+      "waitingForPlayers": "Waiting for players",
+      "roomCode": "Room Code"
+    },
+    "timed": {
+      "title": "Time Attack",
+      "description": "Race against time, test your speed"
+    }
+  },
+  "lyrics": {
+    "generator": {
+      "title": "AI Lyrics Generator",
+      "description": "Create unique lyrics with AI",
+      "prompt": "Enter your creative idea",
+      "genre": "Genre",
+      "mood": "Mood",
+      "generate": "Generate Lyrics",
+      "generating": "Generating...",
+      "share": "Share",
+      "download": "Download"
+    }
+  },
+  "auth": {
+    "loginTitle": "Sign in to your account",
+    "registerTitle": "Create your account",
+    "email": "Email address",
+    "password": "Password",
+    "username": "Username",
+    "createAccount": "Create Account",
+    "alreadyHaveAccount": "Already have an account?",
+    "dontHaveAccount": "Don't have an account?",
+    "loginSuccess": "Login successful!",
+    "registerSuccess": "Registration successful!"
+  },
+  "footer": {
+    "navigation": "Navigation",
+    "resources": "Resources",
+    "company": "Company",
+    "contact": "Contact",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "rights": "© {{year}} Wicked Lyrics. All rights reserved."
+  }
+}
